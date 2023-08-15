@@ -1,6 +1,5 @@
 # RepAdapter
 
-Official implementation of "Towards Efficient Visual Adaption via Structural Re-parameterization".
 Repadapter is a parameter-efficient and computationally friendly adapter for giant vision models, which can be seamlessly integrated into most
  vision models via structural re-parameterization.
 
